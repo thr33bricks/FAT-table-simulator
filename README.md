@@ -1,4 +1,4 @@
-# FAT-table-simulator
+# FAT table simulator
 
 My course work for the Operating Systems class at the University of Ruse. This project implements a FAT table simulator that simulates a FAT table with **10 blocks × 1024 B**.
 
